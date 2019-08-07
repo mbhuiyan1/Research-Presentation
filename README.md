@@ -4,7 +4,9 @@ The pdfs will likely need to be downloaded if you wish to view them, as GitHub m
 
 | Filename  | Description |
 | ------------- | ------------- |
-| talk_hawaii.pdf  | Masum Bhuiyan, Title: Application of Stochastic Differential Equation on Financial Time Series & other Seismic Data, Talk Presented at: American Mathematical Society Spring Central/Western Meeting, University of Hawaii at Manoa, March 20-22, 2019.
+| talk_New-Jersey.pdf  | Title: Analysis of High Frequency Financial Data Using Dynamic Fourier Models, The 8th Annual High Frequency Finance & Data Analytics, Stevens Inst. of Technology, June 27-29, 2019. |
+| talk_hawaii.pdf  | Title: Statistical data mining algorithms for the prognosis of diabetes and autism, A9th Annual STEM conference, June 05-07, 2019. |
+| talk_hawaii.pdf  | Title: Application of Stochastic Differential Equation on Financial Time Series & other Seismic Data, American Mathematical Society Spring Central/Western Meeting, University of Hawaii at Manoa, March 20-22, 2019. |
 | poster_houston.pdf  | Masum Bhuiyan, Maria C. Mariani, Ionut Floresu, Title: Estimation of Stochastic Volatility in High Frequency Financial Data Using Long Memory Effects - 4th Int. Conference on Big Data and Information Analytics, Univeristy of Texas Public Health, Houston, December 17-19, 2018.  |
 | poster_ohio.pdf  | Masum Bhuiyan, Maria C. Mariani, Osei K. Tweneboah, Title: Volatility Forecasting of Financial Time Series By Using Ornstein-Uhlenbeck Type Models - Cincinnati Symposium On probability Theory and Applications, Univeristy of Cinicinnati, Ohio, November 10-11, 2018.  |
 | poster_louisiana.pdf  | Masum Bhuiyan, Maria C. Mariani, Osei K. Tweneboah, Title:Application of Stochastic Differential Equation by using Ornstein-Uhlenbeck Process - The 1st Annual Meeting of SIAM Texas-Louisiana Section, Louisiana State University, Louisiana, October 5-7, 2018.  |
